@@ -1,6 +1,4 @@
 # 🎵 Measuring Emotion & Popularity in Anime Songs  
-### A Tableau Dashboard Analysis
-
 ---
 
 ## 📌 Project Overview
@@ -48,8 +46,7 @@ The dataset contains anime songs with the following attributes:
 - **Sad songs:** 5,196 tracks (~58%)  
 - **Happy songs:** 3,740 tracks (~42%)  
 
-This indicates a tonal skew toward emotionally heavier compositions in anime music.
-
+This suggests a higher representation of sad-classified tracks within the dataset.
 ---
 
 ## 📎 Dashboard Preview
